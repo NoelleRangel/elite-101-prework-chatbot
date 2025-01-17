@@ -3,6 +3,7 @@ In my chatbot template, my program follows the following requirements:
 Welcome the user, collect the users name and age, ask the user how it can help them, and allow
  the user to choose from a menu/list of options on how they can continue the conversation.
 """
+
 print('Welcome to the ELite 101 chatbot project!')
 name = input('What should we refer to you as? ')
 age = int(input(f'Hello {name}! How old are you? '))
